@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gsusanis/mydocuments/clones/Build_an_MLPipeline_RentalPrices_NYC/mlruns/0/dcc232a0e2ac4c7ab33d96473a4dfd80/artifacts
+end_time: 1624947200101
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: dcc232a0e2ac4c7ab33d96473a4dfd80
+run_uuid: dcc232a0e2ac4c7ab33d96473a4dfd80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1624947120734
+status: 4
+tags: []
+user_id: gsusanis

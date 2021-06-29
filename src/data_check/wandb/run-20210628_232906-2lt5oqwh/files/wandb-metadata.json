@@ -1,0 +1,34 @@
+{
+    "os": "Linux-5.4.72-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.5",
+    "heartbeatAt": "2021-06-29T04:29:07.780248",
+    "startedAt": "2021-06-29T04:29:06.043145",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [
+        ".",
+        "-vv",
+        "--csv",
+        "clean_sample.csv:latest",
+        "--ref",
+        "clean_sample.csv:reference",
+        "--kl_threshold",
+        "0.2",
+        "--min_price",
+        "10",
+        "--max_price",
+        "350"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/ghsusanibar/Build_an_MLPipeline_RentalPrices_NYC.git",
+        "commit": "0c95f13e49b119278ffe424e626fe1ed99b4b88c"
+    },
+    "email": "ghsusanibar@pucp.pe",
+    "root": "/home/gsusanis/mydocuments/clones/Build_an_MLPipeline_RentalPrices_NYC",
+    "host": "ALQ-1461",
+    "username": "gsusanis",
+    "executable": "/home/gsusanis/miniconda3/envs/mlflow-d1fd4b13aac386abe6aa5a2ada1ca11214902ce4/bin/python"
+}

@@ -10,15 +10,15 @@ entry_points:
         type: string
 
       output_artifact:
-        description: Name for the artifact
+        description: Name for the output artifact
         type: string
 
       output_type:
-        description: Type for the artifact
+        description: Type for the output artifact
         type: string
 
       output_description:
-        description: Description for the artifact
+        description: Description for the output artifact
         type: string
 
       min_price:
